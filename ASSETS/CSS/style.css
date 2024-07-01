@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.navbar-brand img{    
+    top: 10px;
+    left: 40px;
+    width: 80px;
+    height: 40px;
+}
+
+
+hr{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+
+#mision article {
+    display: inline-block;
+    vertical-align: center;
+    width: 30%;
+    height: 70%;
+
+}
+#mision article i {
+color:rgb(19, 151, 190);
+}
+
+row{
+    height: 20%;
+}
